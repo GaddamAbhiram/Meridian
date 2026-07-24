@@ -1,0 +1,30 @@
+NORTHWIND TRADERS
+Order Receipt
+==================================================
+
+Order #ord_8
+Placed: February 14, 2026
+
+Items
+-----
+1x  Ergonomic Mesh Desk Chair                   $149.99
+
+                                    Subtotal:    $149.99
+                                    Shipping:       FREE
+                                    Sales Tax:     $12.00
+                                    --------------------
+                                        Total:    $161.99
+
+Ship To
+-------
+Dana Kim
+77 Willow Ave
+Springfield, OR 97478
+United States
+
+Payment
+-------
+Visa ending in 5533
+Billing address same as shipping
+
+Thank you for shopping with Northwind Traders!

@@ -1,0 +1,30 @@
+NORTHWIND TRADERS
+Order Receipt
+==================================================
+
+Order #ord_4
+Placed: January 11, 2026
+
+Items
+-----
+1x  12-Cup Programmable Coffee Maker             $59.99
+
+                                    Subtotal:     $59.99
+                                    Shipping:      $6.99
+                                    Sales Tax:      $4.80
+                                    --------------------
+                                        Total:     $71.78
+
+Ship To
+-------
+Bob Martinez
+219 Maple Court
+Springfield, OR 97477
+United States
+
+Payment
+-------
+Mastercard ending in 1881
+Billing address same as shipping
+
+Thank you for shopping with Northwind Traders!

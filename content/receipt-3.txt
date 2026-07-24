@@ -1,0 +1,30 @@
+NORTHWIND TRADERS
+Order Receipt
+==================================================
+
+Order #ord_3
+Placed: February 2, 2026
+
+Items
+-----
+1x  Trail Running Shoes, Men's Size 9            $89.99
+
+                                    Subtotal:     $89.99
+                                    Shipping:      $6.99
+                                    Sales Tax:      $7.20
+                                    --------------------
+                                        Total:    $104.18
+
+Ship To
+-------
+Alice Chen
+482 Birch Lane
+Springfield, OR 97477
+United States
+
+Payment
+-------
+Visa ending in 4242
+Billing address same as shipping
+
+Thank you for shopping with Northwind Traders!

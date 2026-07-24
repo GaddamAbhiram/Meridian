@@ -1,0 +1,31 @@
+BLUEBIRD GOODS
+Order Receipt
+==================================================
+
+Order #ord_11
+Placed: February 11, 2026
+
+Items
+-----
+1x  Portable Propane Camp Stove                  $42.99
+1x  Cast Iron Cookware Set, 4-Piece              $54.99
+
+                                    Subtotal:     $97.98
+                                    Shipping:      $6.99
+                                    Sales Tax:      $7.84
+                                    --------------------
+                                        Total:    $112.81
+
+Ship To
+-------
+Carol Nguyen
+1350 Cascade Ridge Rd
+Boulder, CO 80302
+United States
+
+Payment
+-------
+Visa ending in 7710
+Billing address same as shipping
+
+Thank you for shopping with Bluebird Goods!

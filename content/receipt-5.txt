@@ -1,0 +1,31 @@
+NORTHWIND TRADERS
+Order Receipt
+==================================================
+
+Order #ord_5
+Placed: January 24, 2026
+
+Items
+-----
+1x  Portable Bluetooth Speaker                   $45.99
+1x  Clear Phone Case                             $14.99
+
+                                    Subtotal:     $60.98
+                                    Shipping:      $6.99
+                                    Sales Tax:      $4.88
+                                    --------------------
+                                        Total:     $72.85
+
+Ship To
+-------
+Bob Martinez
+219 Maple Court
+Springfield, OR 97477
+United States
+
+Payment
+-------
+Mastercard ending in 1881
+Billing address same as shipping
+
+Thank you for shopping with Northwind Traders!

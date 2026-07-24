@@ -1,0 +1,30 @@
+NORTHWIND TRADERS
+Order Receipt
+==================================================
+
+Order #ord_6
+Placed: February 9, 2026
+
+Items
+-----
+1x  Men's Insulated Winter Jacket, Size L       $129.99
+
+                                    Subtotal:    $129.99
+                                    Shipping:       FREE
+                                    Sales Tax:     $10.40
+                                    --------------------
+                                        Total:    $140.39
+
+Ship To
+-------
+Bob Martinez
+219 Maple Court
+Springfield, OR 97477
+United States
+
+Payment
+-------
+Mastercard ending in 1881
+Billing address same as shipping
+
+Thank you for shopping with Northwind Traders!

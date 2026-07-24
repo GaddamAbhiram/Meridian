@@ -1,0 +1,31 @@
+NORTHWIND TRADERS
+Order Receipt
+==================================================
+
+Order #ord_1
+Placed: January 8, 2026
+
+Items
+-----
+1x  Sony WH-CH520 Wireless Headphones           $89.00
+1x  Anker USB-C Charging Cable (6ft)             $12.99
+
+                                    Subtotal:    $101.99
+                                    Shipping:       FREE
+                                    Sales Tax:       $8.16
+                                    --------------------
+                                        Total:    $110.15
+
+Ship To
+-------
+Alice Chen
+482 Birch Lane
+Springfield, OR 97477
+United States
+
+Payment
+-------
+Visa ending in 4242
+Billing address same as shipping
+
+Thank you for shopping with Northwind Traders!

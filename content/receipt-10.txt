@@ -1,0 +1,30 @@
+BLUEBIRD GOODS
+Order Receipt
+==================================================
+
+Order #ord_10
+Placed: January 28, 2026
+
+Items
+-----
+1x  Waterproof Hiking Boots, Size 9              $94.99
+
+                                    Subtotal:     $94.99
+                                    Shipping:      $6.99
+                                    Sales Tax:      $7.60
+                                    --------------------
+                                        Total:    $109.58
+
+Ship To
+-------
+Carol Nguyen
+1350 Cascade Ridge Rd
+Boulder, CO 80302
+United States
+
+Payment
+-------
+Visa ending in 7710
+Billing address same as shipping
+
+Thank you for shopping with Bluebird Goods!

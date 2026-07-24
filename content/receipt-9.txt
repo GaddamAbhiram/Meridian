@@ -1,0 +1,31 @@
+BLUEBIRD GOODS
+Order Receipt
+==================================================
+
+Order #ord_9
+Placed: January 6, 2026
+
+Items
+-----
+1x  2-Person Camping Tent                       $129.99
+1x  Sleeping Bag, 20°F Rated                     $54.99
+
+                                    Subtotal:    $184.98
+                                    Shipping:       FREE
+                                    Sales Tax:     $14.80
+                                    --------------------
+                                        Total:    $199.78
+
+Ship To
+-------
+Carol Nguyen
+1350 Cascade Ridge Rd
+Boulder, CO 80302
+United States
+
+Payment
+-------
+Visa ending in 7710
+Billing address same as shipping
+
+Thank you for shopping with Bluebird Goods!

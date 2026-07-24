@@ -1,0 +1,31 @@
+NORTHWIND TRADERS
+Order Receipt
+==================================================
+
+Order #ord_2
+Placed: January 15, 2026
+
+Items
+-----
+1x  LED Adjustable Desk Lamp                     $34.99
+2x  Ruled Notebook, 3-Pack                       $19.98
+
+                                    Subtotal:     $54.97
+                                    Shipping:      $6.99
+                                    Sales Tax:      $4.40
+                                    --------------------
+                                        Total:     $66.36
+
+Ship To
+-------
+Alice Chen
+482 Birch Lane
+Springfield, OR 97477
+United States
+
+Payment
+-------
+Visa ending in 4242
+Billing address same as shipping
+
+Thank you for shopping with Northwind Traders!

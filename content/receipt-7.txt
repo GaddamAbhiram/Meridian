@@ -1,0 +1,31 @@
+NORTHWIND TRADERS
+Order Receipt
+==================================================
+
+Order #ord_7
+Placed: January 19, 2026
+
+Items
+-----
+1x  Non-Slip Yoga Mat                            $28.99
+1x  Stainless Steel Water Bottle, 32oz           $18.99
+
+                                    Subtotal:     $47.98
+                                    Shipping:      $6.99
+                                    Sales Tax:      $3.84
+                                    --------------------
+                                        Total:     $58.81
+
+Ship To
+-------
+Dana Kim
+77 Willow Ave
+Springfield, OR 97478
+United States
+
+Payment
+-------
+Visa ending in 5533
+Billing address same as shipping
+
+Thank you for shopping with Northwind Traders!
