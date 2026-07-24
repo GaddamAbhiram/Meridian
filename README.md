@@ -55,6 +55,7 @@ no login at all.
    ```
    BOLD_INGEST_URL=...
    BOLD_INGEST_KEY=...
+   SESSION_SECRET=replace-with-a-long-random-demo-secret
    BOLD_OWNER_FIELDS=customerId
    BOLD_SENSITIVE_FIELDS=role,storeCredit
    BOLD_TENANT_FIELDS=storeId
